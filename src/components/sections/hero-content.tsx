@@ -65,9 +65,9 @@ export function HeroContent({ welcomeMessage }: HeroContentProps) {
             transition={{ duration: 0.5, type: 'spring', stiffness: 100 }}
             className="relative"
           >
-            <div className="absolute -inset-4 rounded-full bg-gradient-to-r from-accent via-destructive to-primary opacity-20 blur-3xl"></div>
+            {/* <div className="absolute -inset-4 rounded-full bg-gradient-to-r from-accent via-destructive to-primary opacity-20 blur-3xl"></div> */}
             <Image
-              src="https://placehold.co/500x500.png"
+              src="https://drive.google.com/uc?export=view&id=177CtxK7YpjmHbCAm4RGIgmBnrhc3xGYS"
               alt="Portrait of Saksham Umate"
               width={500}
               height={500}
