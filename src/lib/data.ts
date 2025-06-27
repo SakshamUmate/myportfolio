@@ -34,13 +34,13 @@ export const PROJECTS: Project[] = [
     repoUrl: "https://github.com/SakshamUmate/QuickHomeServices.git",
   },
   {
-    title: "Spars X (Coding platform)",
+    title: "SparkX (Coding platform)",
     description: "A coding platform for competitive programming with features like Codeing Contests, code submission, user rankings,  and real-time problem solving.",
     image: "https://placehold.co/600x400.png",
     image_hint: "modern ecommerce",
     tags: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
     liveUrl: "#",
-    repoUrl: "#",
+    repoUrl: "https://github.com/SakshamUmate/code_editor",
   },
   // {
   //   title: "Sales Forecasting for Retail",
