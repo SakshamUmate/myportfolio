@@ -3,12 +3,12 @@ import { BarChart3, Bot, BrainCircuit, Calculator, Code, Database, GitBranch, Gi
 export const SOCIAL_LINKS = [
   {
     name: "GitHub",
-    url: "https://github.com",
+    url: "https://github.com/SakshamUmate",
     icon: Github,
   },
   {
     name: "LinkedIn",
-    url: "https://linkedin.com",
+    url: "https://www.linkedin.com/in/sakshamumate",
     icon: Linkedin,
   },
 ];
@@ -25,41 +25,41 @@ export type Project = {
 
 export const PROJECTS: Project[] = [
   {
-    title: "Sentiment Analysis of Movie Reviews",
-    description: "Built a model to classify movie reviews as positive or negative using NLP techniques and machine learning.",
+    title: "Household Services WebApp",
+    description: "A full-stack web application for booking household services, featuring user authentication, service management, and  email notifications.",
     image: "https://placehold.co/600x400.png",
     image_hint: "sentiment chart",
-    tags: ["Python", "Scikit-learn", "NLTK", "Pandas"],
+    tags: ["Python(Flask)", "Vue.js","Redis","Celery", "SQLAlchemy(ORM)", "SQLite", "Bootstrap"],
     liveUrl: "#",
-    repoUrl: "#",
+    repoUrl: "https://github.com/SakshamUmate/QuickHomeServices.git",
   },
   {
-    title: "Project Beta",
-    description: "An e-commerce platform with a focus on user experience and performance.",
+    title: "Spars X (Coding platform)",
+    description: "A coding platform for competitive programming with features like Codeing Contests, code submission, user rankings,  and real-time problem solving.",
     image: "https://placehold.co/600x400.png",
     image_hint: "modern ecommerce",
-    tags: ["Next.js", "Stripe", "GraphQL", "Vercel"],
+    tags: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
     liveUrl: "#",
     repoUrl: "#",
   },
-  {
-    title: "Sales Forecasting for Retail",
-    description: "Developed a time-series model to predict future sales for a retail company, aiding in inventory management.",
-    image: "https://placehold.co/600x400.png",
-    image_hint: "sales graph",
-    tags: ["Python", "Prophet", "StatsModels", "Matplotlib"],
-    liveUrl: "#",
-    repoUrl: "#",
-  },
-  {
-    title: "Customer Segmentation using Clustering",
-    description: "Applied unsupervised learning to segment customers based on purchasing behavior, enabling targeted marketing.",
-    image: "https://placehold.co/600x400.png",
-    image_hint: "customer cluster",
-    tags: ["Python", "Scikit-learn", "K-Means", "Seaborn"],
-    liveUrl: "#",
-    repoUrl: "#",
-  },
+  // {
+  //   title: "Sales Forecasting for Retail",
+  //   description: "Developed a time-series model to predict future sales for a retail company, aiding in inventory management.",
+  //   image: "https://placehold.co/600x400.png",
+  //   image_hint: "sales graph",
+  //   tags: ["Python", "Prophet", "StatsModels", "Matplotlib"],
+  //   liveUrl: "#",
+  //   repoUrl: "#",
+  // },
+  // {
+  //   title: "Customer Segmentation using Clustering",
+  //   description: "Applied unsupervised learning to segment customers based on purchasing behavior, enabling targeted marketing.",
+  //   image: "https://placehold.co/600x400.png",
+  //   image_hint: "customer cluster",
+  //   tags: ["Python", "Scikit-learn", "K-Means", "Seaborn"],
+  //   liveUrl: "#",
+  //   repoUrl: "#",
+  // },
 ];
 
 export const SKILLS = [
@@ -73,7 +73,8 @@ export const SKILLS = [
   { name: "Git", icon: GitBranch },
   { name: "Linux", icon: Terminal },
   { name: "Django & Flask", icon: Code },
-  // { name: "DSA", icon: Code },
+  { name: "Java", icon: Code },
+  { name: "Vue.js", icon: Code },
 ];
 
 export type Education = {

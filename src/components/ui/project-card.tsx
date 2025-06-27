@@ -43,12 +43,12 @@ export const ProjectCard = ({ project }: { project: Project }) => {
                 GitHub
               </a>
             </Button>
-            <Button asChild>
+            {/* <Button asChild>
               <a href={project.liveUrl} target="_blank" rel="noopener noreferrer">
                 <ExternalLink className="mr-2" />
                 Live Demo
               </a>
-            </Button>
+            </Button> */}
           </div>
         </CardFooter>
       </Card>
