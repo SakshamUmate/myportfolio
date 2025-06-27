@@ -52,7 +52,7 @@
   _Predicts cryptocurrency prices using LSTM neural networks._  
   <sup>[repo link coming soon]</sup>
 
-- 💻 **SparsX – Code Editor App**  
+- 💻 **Sparks X – Code Editor App**  
   _A code editor web app designed for practicing coding challenges, similar to LeetCode and other coding platforms. Supports multiple programming languages, real-time code execution, and curated problem sets to help users enhance their coding skills._  
   <sup>[repo link coming soon]</sup>
 
