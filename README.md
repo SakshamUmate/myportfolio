@@ -1,4 +1,167 @@
-# Hi there, I'm Saksham Umate 👋
+# Hi there! 👋 I'm Saksham Umate
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Python+%26+Vue.js+Developer;ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SakshamUmate&color=brightgreen&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamumate)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🧑‍💻 **Software Engineer** specializing in **Python** & **Vue.js**
+- 🎓 **Data Science Student** | Currently exploring the depths of **Machine Learning**
+- 💡 Passionate about building scalable **Web Applications** and **AI-powered solutions**
+- 🌱 Always learning new technologies and contributing to **Open Source**
+- 🎮 Gamer and tech enthusiast in my free time
+- 💼 **Open to Work** - Let's build something amazing together!
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🔥 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🧠 Data Science & ML
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| 🏡 **Household Services Platform** | 🔐 **Crypto Price Predictor** |
+|:---:|:---:|
+| Full-stack web application connecting users with service providers | LSTM-powered cryptocurrency price prediction system |
+| `Vue.js` `Python` `Flask` `MongoDB` | `Python` `TensorFlow` `LSTM` `Data Analysis` |
+
+| 💻 **Sparks X Code Editor** | 🏥 **AI Healthcare Assistant** |
+|:---:|:---:|
+| Web-based code editor for competitive programming | Mistral AI-powered medical information system |
+| `JavaScript` `Real-time Execution` `Multi-language` | `AI` `Vector Database` `Medical Data` `Flask` |
+
+</div>
+
+<div align="center">
+  <i>🔗 Repository links coming soon! Stay tuned for exciting updates.</i>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshamUmate&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshamUmate&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamUmate&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+<!--
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=SakshamUmate&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+ ## 📈 Contribution Activity
+<div align="center">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakshamUmate&theme=react-dark&hide_border=true)
+</div> -->
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshamumate)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamumate784@gmail.com)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+-->
+### 💬 Ask me about:
+`Python Development` • `Vue.js` • `Machine Learning` • `Web Development` • `Open Source`
+
+</div>
+
+<!--
+
+<div align="center">
+  
+**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=SakshamUmate&icon=2&color=6)
+
+</div> -->
+
+---
+
+<div align="center">
+  <i>✨ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<!--# Hi there, I'm Saksham Umate 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SakshamUmate)
 
@@ -92,6 +255,20 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=SakshamUmate&icon=10&color=1)](https://visitcount.itsvg.in)
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 ## Hi there 👋
