@@ -67,7 +67,7 @@ export function HeroContent({ welcomeMessage }: HeroContentProps) {
           >
             {/* <div className="absolute -inset-4 rounded-full bg-gradient-to-r from-accent via-destructive to-primary opacity-20 blur-3xl"></div> */}
             <Image
-              src="https://drive.google.com/file/d/1I2rm9o5VvzGKgy21sWEmVWJOG-SH8zf_/view"
+              src="https://drive.google.com/uc?export=view&id=1I2rm9o5VvzGKgy21sWEmVWJOG-SH8zf_"
               alt="Portrait of Saksham Umate"
               width={500}
               height={500}
